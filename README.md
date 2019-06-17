@@ -19,9 +19,9 @@ CUDA is a language created by NVIDIA that allows you to work with your NVIDIA Gr
  4. You lose when you are unable to move in any direction
  5. You can save your game pressing g and exit pressing e
  6. You can play until you have 0 lifes.
- ![Image of game](https://octodex.github.com/images/yaktocat.png)
- ![Image of specs](https://octodex.github.com/images/yaktocat.png)
- ![Image of file](https://octodex.github.com/images/yaktocat.png)
+ ![Image of game](https://github.com/Alvarohf/2048-CUDA-Scala/blob/master/image_1_Running_game.png)
+ ![Image of specs](https://github.com/Alvarohf/2048-CUDA-Scala/blob/master/image_3_Graphic_card_spec.png)
+ ![Image of file](https://github.com/Alvarohf/2048-CUDA-Scala/blob/master/image_2_Saved_game.png)
 ### Versions
 There are two versions of the game implemented in CUDA, they are almost identical but the GPU implementation is a bit different.
 * **Normal version:** this version use threads provided by CUDA, but with less parallelism. So it will have less performance.
